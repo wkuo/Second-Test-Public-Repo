@@ -6,4 +6,6 @@ start 2nd commit
  simply commit
 end 2nd commit
 
-
+start 3rd commit
+ fix the bug?
+end of 3rd commit
