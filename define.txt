@@ -9,3 +9,7 @@ end 2nd commit
 start 3rd commit
  fix the bug?
 end of 3rd commit
+
+start 4th commit
+ jira hook
+end 4th commit
