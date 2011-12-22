@@ -25,3 +25,5 @@ end external 02
 commit to external 03
   test with hook
 end external 03
+
+ext 04 test
