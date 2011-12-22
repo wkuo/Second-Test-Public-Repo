@@ -17,3 +17,7 @@ end 4th commit
 commit to external 01
  using port 8080 now
 end external 01
+
+commit to external 02
+  try not force sync
+end external 02
