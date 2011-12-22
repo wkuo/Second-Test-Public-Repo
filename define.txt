@@ -21,3 +21,7 @@ end external 01
 commit to external 02
   try not force sync
 end external 02
+
+commit to external 03
+  test with hook
+end external 03
